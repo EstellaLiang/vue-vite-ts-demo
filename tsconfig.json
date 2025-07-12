@@ -23,6 +23,7 @@
     },
     "verbatimModuleSyntax": false,
     "noUnusedLocals": true,
-    "noUnusedParameters": true
+    "noUnusedParameters": true,
+    "types": ["element-plus/global"]
   }
 }

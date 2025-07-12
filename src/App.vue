@@ -16,5 +16,8 @@ const route = useRoute();
   </main>
 </template>
 
-<style scoped>
+<style scoped lang="scss">
+h1 {
+  color: $theme-color;
+}
 </style>
